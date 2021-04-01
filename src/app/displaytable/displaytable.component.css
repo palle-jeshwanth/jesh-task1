@@ -1,0 +1,12 @@
+table {
+    table-layout: fixed;
+    border: 2px solid #000;
+    text-align: center;
+}
+  
+th,td {
+    border: 2px solid #000;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
